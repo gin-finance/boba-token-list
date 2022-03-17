@@ -13,7 +13,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png",
-    keywords: ["gin-finance", "boba", "community"],
+    keywords: ["gin", "boba", "community"],
     tokens: [...boba]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
