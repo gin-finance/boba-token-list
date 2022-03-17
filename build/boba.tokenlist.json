@@ -1,15 +1,15 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-03-17T17:35:07.396Z",
+  "timestamp": "2022-03-17T17:49:29.665Z",
   "version": {
-    "major": 8,
+    "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png",
   "keywords": [
-    "ginfinance",
+    "gin",
     "boba",
     "community"
   ],
