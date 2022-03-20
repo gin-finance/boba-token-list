@@ -4,7 +4,7 @@ const boba = require("./tokens/boba.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Boba Community TL",
+    name: "Boba Token List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
