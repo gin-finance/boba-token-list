@@ -4,7 +4,7 @@ const boba = require("./tokens/boba.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Boba Token List",
+    name: "Gin Finance Token List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -12,8 +12,9 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png",
-    keywords: ["gin", "boba", "community"],
+    logoURI:
+      "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0xe48703F5AdfE59d271D951c2E602F654B86736E7/logo.png",
+    keywords: ["gin", "boba", "layer2"],
     tokens: [...boba]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
