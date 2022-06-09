@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0xCe055Ea4f29fFB8bf35E852522B96aB67Cbe8197/logo.png"
+  },
+  {
+    "name": "Koyo Token",
+    "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
+    "symbol": "KYO",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png"
   }
 ]
