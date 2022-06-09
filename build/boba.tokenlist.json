@@ -1,6 +1,6 @@
 {
   "name": "Boba Token List",
-  "timestamp": "2022-03-20T09:11:40.602Z",
+  "timestamp": "2022-06-09T15:07:50.056Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -53,6 +53,14 @@
       "decimals": 9,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
+    },
+    {
+      "name": "Koyo Token",
+      "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
+      "symbol": "KYO",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/gin-finance/token-icons/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png"
     },
     {
       "name": "Boba WAGMI v0 Option",
