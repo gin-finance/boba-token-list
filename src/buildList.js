@@ -4,7 +4,7 @@ const boba = require("./tokens/boba.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Gin Finance Token List",
+    name: "Gin Finance List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],

@@ -1,6 +1,6 @@
 {
   "name": "@gin-finance/boba-token-list",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "The Boba token list",
   "main": "build/boba.tokenlist.json",
   "scripts": {
